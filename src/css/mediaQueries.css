@@ -1,0 +1,12 @@
+@media (max-width: 991px) {
+    .page-container{
+        overflow-x: hidden;
+        position: relative;
+    }
+}
+@media (max-width: 767px) {
+    .page-container {
+        overflow-x: hidden;
+        position: relative;
+    }
+}

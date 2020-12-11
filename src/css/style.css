@@ -1,0 +1,20 @@
+body 
+{
+    margin: 0;
+    padding: 0;
+    background: #FFF;
+    overflow-x: hidden;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+a,
+button 
+{
+    transition: all .3s ease-out;
+    outline: none!important;
+}
+a:hover 
+{
+    text-decoration: none;
+    cursor: pointer;
+}
