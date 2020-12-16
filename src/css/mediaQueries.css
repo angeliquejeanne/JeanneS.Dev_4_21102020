@@ -39,10 +39,12 @@
         width:200px;
         height: 200px;
     }
-
     #bloc-1-hero h1 {
         font-size: 2em;
-}
+    }
+    .hero-bloc-text {
+        font-size: 26px!important;
+    }
 }
 
 @media (max-width: 400px) {

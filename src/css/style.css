@@ -310,11 +310,6 @@ a:hover
     width: 200px;
     position: absolute;
 }
-.navbar-brand .content-img
-{
-   /* width: 214px;
-    height: 40px; */
-}
 .navbar-brand .content-img img {
     margin: 0 5px 0 0;
     /* display: inline; */
@@ -886,9 +881,8 @@ h4 {
     .partenaire ul li a{
         font-size: 16px;
     }
-      .desc-center h2{
+    .desc-center h2{
         font-size: 18px;
-
     }
     .desc-center p{
         font-size: 14px;
@@ -899,15 +893,15 @@ h4 {
     h2{
         font-size:24px;
     }
-    .navbar-brand img {
+    .navbar-brand img{
         width:214px; 
         height:40px;
     }
-    .title p{
-        font-size:16px;
+    .title h2{
+        font-size:20px;
     }
     .adress p{
-        font-size:15px;
+        font-size:14px;
     }
    .contact{
         margin: 0px 5px;
@@ -917,10 +911,21 @@ h4 {
         width:200px;
         height: 200px;
     }
-
     #bloc-1-hero h1 {
         font-size: 2em;
-}
+    }
+    .hero-bloc-text {
+        font-size: 26px!important;
+    }
+    #bloc-2-services h2 {
+        font-size: 22px;
+    }
+    article h3{
+        font-size: 20px;
+    }
+    #bloc-4-portfolio h2{
+        font-size: 26px;
+    }
 }
 
 @media (max-width: 400px) {
