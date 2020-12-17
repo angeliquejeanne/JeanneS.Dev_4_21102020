@@ -830,7 +830,7 @@ h4 {
 .bg-presentation {
     background-image: url("../img/photo-de-presentation.jpg");
 }
-.title p{
+.title h2{
     color: white!important;
     font-size: 26px;
     font-weight: 500;
@@ -898,9 +898,11 @@ h4 {
     }
     .title h2{
         font-size:20px;
+        font-weight: bold;
     }
     .adress p{
         font-size:14px;
+        color: #fff;
     }
    .contact{
         margin: 0px 5px;
