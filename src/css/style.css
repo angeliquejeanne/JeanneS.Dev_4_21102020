@@ -831,7 +831,7 @@ h4 {
     background-image: url("../img/photo-de-presentation.jpg");
 }
 .title h2{
-    color: white!important;
+    color: #fff;
     font-size: 26px;
     font-weight: 500;
 }
@@ -839,9 +839,10 @@ h4 {
     margin: 25px auto;
 }
 .adress p{
-    color: white!important;
+    color: #fff;
     font-size: 24px;
     font-weight: 500;
+    letter-spacing: 1px;
 }
 .partenaire{
     margin: auto;
